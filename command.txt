@@ -1,0 +1,9 @@
+Remote repo connect command <git clone <repo address>
+File cheack <lr -lrth>
+File Create and exit <vim file nm & ext>
+Chage file add repo command < git add filename with extention>
+if all file add (git add .)
+for message user git user git commit -m <"write message">
+remote mian brach to push < git push origin main>
+if brach to push < git push origin <branch name>
+

@@ -1,0 +1,6 @@
+Hi this learning of create branching and its oparations
+* Create git brach command <git branch <branch name>
+* Create git branch with switch <git branch checkout branch name>
+* local branch push to git <git push -u origin branch-name>
+* branch list check <git branch>
+* Delete branch <git branch -d branch name>
